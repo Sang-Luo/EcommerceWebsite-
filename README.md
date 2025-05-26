@@ -3,7 +3,7 @@ This is a project ecommerce website. The website is built around an MVC model an
 
 Video Displaying Website:
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/{video_id})](https://youtu.be/b3BsouKQusc)
+[![Ecom Website Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2Fb3BsouKQusc)](https://youtu.be/b3BsouKQusc)
 
 ---
 
