@@ -1,5 +1,12 @@
 # EcommerceWebsite-
-This is a project ecommerce website. The website is built around an MVC model and has many different features. 
+This is a project ecommerce website. The website is built around an MVC model and has many different features. (See Report PDF file for images if mentioned)
+
+Video:
+# cool-beans
+
+https://youtu.be/b3BsouKQusc
+
+Press play to see the video.
 
 ---
 
