@@ -1,12 +1,9 @@
 # EcommerceWebsite-
 This is a project ecommerce website. The website is built around an MVC model and has many different features. (See Report PDF file for images if mentioned)
 
-Video:
-# cool-beans
+Video Displaying Website:
 
-https://youtu.be/b3BsouKQusc
-
-Press play to see the video.
+[![](https://markdown-videos-api.jorgenkh.no/youtube/{video_id})](https://youtu.be/b3BsouKQusc)
 
 ---
 
