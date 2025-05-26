@@ -4,7 +4,6 @@ This is a project ecommerce website. The website is built around an MVC model an
 ---
 
 ### Project Name: Uforic
-### Team Name: Built for you
 
 ---
 
